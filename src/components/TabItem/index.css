@@ -1,0 +1,11 @@
+.tab-item {
+  list-style-type: none;
+  margin-right: 15px;
+}
+.tab-btn {
+  border: 1px solid #f3aa4e;
+  background-color: #000;
+  border-radius: 18px;
+  color: #fff;
+  padding: 8px;
+}
